@@ -1,1 +1,113 @@
+/**
+    * @name Animated Names
+    * @version 1.0
+    * @description Animates selected peoples names
+    * @author some dude
+    *
+**/
 
+/** Spaffe **/
+.message-2qnXI6[data-user-id="318403678992203776"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="318403678992203776"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="318403678992203776"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="318403678992203776"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="318403678992203776"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="318403678992203776"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="318403678992203776"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="318403678992203776"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="318403678992203776"] .username-2b1r56,
+.root-3QyAh1[data-user-id="318403678992203776"] .username-2b1r56 {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine 3s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(90deg, rgb(76, 161, 98) 0%, rgb(200, 255, 232) 50%, rgb(86, 160, 120) 100%);
+}
+
+/** Ally **/
+.message-2qnXI6[data-user-id="757491839631884371"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="757491839631884371"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="757491839631884371"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="757491839631884371"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="757491839631884371"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="757491839631884371"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="757491839631884371"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="757491839631884371"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="757491839631884371"] .username-2b1r56,
+.root-3QyAh1[data-user-id="757491839631884371"] .username-2b1r56 {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine-reversed 4s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(-60deg, #1d78c2 0%, #dae3f0 50%, #1d78c2 100%);
+}
+
+/** Olive **/
+.message-2qnXI6[data-user-id="448499507265667083"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="448499507265667083"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="448499507265667083"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="448499507265667083"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="448499507265667083"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="448499507265667083"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="448499507265667083"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="448499507265667083"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="448499507265667083"] .username-2b1r56,
+.root-3QyAh1[data-user-id="448499507265667083"] .username-2b1r56 {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine 3s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(-60deg, #d65858 0%, #f780b7 50%, #eb4646, #d65858 100%);
+}
+
+/** Touhl **/
+.message-2qnXI6[data-user-id="506538986135748620"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="506538986135748620"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="506538986135748620"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="506538986135748620"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="506538986135748620"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="506538986135748620"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="506538986135748620"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="506538986135748620"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="506538986135748620"] .username-2b1r56,
+.root-3QyAh1[data-user-id="506538986135748620"] .username-2b1r56 {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine 3s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(-60deg, #f0ec2d 0%, #84ff3c 50%, #f0ec2d 100%);
+}
+
+/** Alice **/
+.message-2qnXI6[data-user-id="429296445817094176"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="429296445817094176"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="429296445817094176"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="429296445817094176"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="429296445817094176"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="429296445817094176"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="429296445817094176"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="429296445817094176"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="429296445817094176"] .username-2b1r56,
+.root-3QyAh1[data-user-id="429296445817094176"] .username-2b1r56 {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine 3s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(-60deg, #af26d1 0%, #3c80ff 50%, #af26d1 100%);
+}
+
+@keyframes shine {
+  to {
+    background-position: 300% center;
+  }
+}
+@keyframes shine-reversed {
+  to {
+    background-position: -300% center;
+  }
+}
